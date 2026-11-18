@@ -1,0 +1,19 @@
+{
+  "name": "biztrade-learn",
+  "version": "1.0.0",
+  "description": "BizTrade - Learn Forex Trading step by step with 50 illustrated lessons in English & Telugu",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node server.js"
+  },
+  "keywords": [
+    "forex",
+    "trading",
+    "education",
+    "candlestick",
+    "telugu"
+  ],
+  "author": "lankapallibenny",
+  "license": "MIT"
+}
